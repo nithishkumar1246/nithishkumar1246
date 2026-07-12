@@ -17,36 +17,44 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+AI+%2B+IoT+Projects+%F0%9F%9A%80;Final+Year+B.E.+CSE+(AI+%26+ML)+Student;Turning+Ideas+into+Smart+Systems;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=nithishkumar1246&label=PROFILE+VIEWS&color=1f6feb&style=for-the-badge" alt="Profile views" />
-
 </div>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</p>
 
-### 🎓 About Me
+## 👨‍💻 whoami
 
-- 🎓 Final Year **B.E. Computer Science Engineering (AI & ML)** student at Sethu Institute of Technology
-- 🤖 Passionate about **Artificial Intelligence, Internet of Things, and Full Stack Development**
-- 🛠️ Skilled in **Python, Java, SQL, Embedded C**, and building real-world IoT prototypes
-- 🚀 Currently building AI + IoT powered solutions and exploring full-stack web development
-- 🔧 Interested in developing intelligent, connected systems that solve real-world problems
-- 🌱 Continuously learning **Machine Learning, Full-Stack Development, and Cloud for IoT**
-- 🎯 Seeking opportunities to grow as a **Software Developer / AI Engineer**
+```bash
+> whoami
 
-```yaml
-name        : Nithish Kumar M
-role        : AI & IoT Engineering Student
-college     : Sethu Institute of Technology
-location    : Madurai, Tamil Nadu, India
-currently   :
-  - Advanced Machine Learning
-  - Full-Stack Development
-  - Cloud Fundamentals for IoT
-funFact     : "Built a smart incubator that helps newborn pups survive 🐾"
-motto       : "Passionate about solving real-world problems with AI + IoT 🚀"
+Name        : Nithish Kumar M
+Role        : AI • ML • IoT Engineer
+Education   : B.E CSE (AI & ML)
+College     : Sethu Institute of Technology
+Location    : Madurai, India
+
+Specialized In:
+✔ Artificial Intelligence
+✔ Machine Learning
+✔ Internet of Things
+✔ Full Stack Development
+
+Mission:
+Building intelligent software that solves real-world problems.
+
+Current Focus:
+- AI Agents
+- Computer Vision
+- Full Stack Development
+- Cloud & IoT
+
+Status:
+Actively looking for Software Developer / AI Engineer opportunities.
 ```
-
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</p>
 
 ### 🛠️ Tech Stack
 
@@ -55,28 +63,31 @@ motto       : "Passionate about solving real-world problems with AI + IoT 🚀"
 | # | Category | Icons |
 |:---:|:---|:---|
 | 🔤 | **Languages** | ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c) |
-| 🌐 | **Web Technologies** | ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![Flask](https://skillicons.dev/icons?i=flask) |
+| 🌐 | **Web Technologies** | ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) |
 | 📡 | **IoT & Embedded** | ![Arduino](https://skillicons.dev/icons?i=arduino) ![Raspberry Pi](https://skillicons.dev/icons?i=raspberrypi) |
-| 🧠 | **Libraries** | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![NumPy](https://skillicons.dev/icons?i=numpy) ![Pandas](https://skillicons.dev/icons?i=pandas) |
-| 🚀 | **Tools & Platforms** | ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) |
+| 🚀 | **Tools & Platforms** | ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) |
 
 </div>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</p>
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nithishkumar1246&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar1246&layout=compact&theme=tokyonight&hide_border=true" />
-
+<!--
+<img height="165" src="![GitHub Streak](https://streak-stats.demolab.com?user=nithishkumar1246&theme=tokyonight&hide_border=true)"/>
+<img height="165" src="![GitHub Streak](https://streak-stats.demolab.com?user=nithishkumar1246&theme=tokyonight&hide_border=true)" />
+<img height="165" src= "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithishkumar1246&layout=compact&theme=tokyonight&hide_border=true)"/>
+-->
 <img src="https://streak-stats.demolab.com?user=nithishkumar1246&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
 
+<!--
 ### 🐍 Contribution Snake
 
 <div align="center">
@@ -84,8 +95,7 @@ motto       : "Passionate about solving real-world problems with AI + IoT 🚀"
 </div>
 
 > *Generated by the [github-contribution-grid-snake](https://github.com/Platane/snk) action — add the workflow to your profile repo to bring this to life.*
-
----
+-->
 
 ### 📈 Activity Graph
 
@@ -93,15 +103,16 @@ motto       : "Passionate about solving real-world problems with AI + IoT 🚀"
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nithishkumar1246&theme=tokyo-night&hide_border=true" />
 </div>
 
----
-
+<!--
 ### 🏆 Trophy Wall
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nithishkumar1246&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nithishkumar1246&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
 </div>
-
----
+-->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</p>
 
 ### 💼 Training & Certifications
 
@@ -138,7 +149,9 @@ motto       : "Passionate about solving real-world problems with AI + IoT 🚀"
 
 </details>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</p>
 
 ### 🚀 Featured Projects
 
@@ -147,12 +160,14 @@ motto       : "Passionate about solving real-world problems with AI + IoT 🚀"
 | Project | Stack | Description |
 |:---|:---|:---|
 | 🐾 **Smart Incubation System for Newborn Pups** | ESP32, Arduino UNO, Embedded C, Sensors | IoT-enabled incubator with real-time temperature, humidity & air-quality monitoring plus automated alerts. |
-| 🎓 **Placement Readiness Calculator** *(Demo)* | Python, Flask, HTML, CSS, JS | Full-stack tool that evaluates placement readiness and generates personalized improvement plans. |
-| 🔒 **Smart Lock System (IoT)** *(Demo)* | Embedded C, Tinkercad, Sensors | Password-authenticated smart lock with motion detection, simulated end-to-end in Tinkercad. |
+| 🎓 **Placement Readiness Calculator**  | Python, Flask, HTML, CSS, JS | Full-stack tool that evaluates placement readiness and generates personalized improvement plans. |
+| 🔒 **Smart Lock System (IoT)** | Embedded C, Tinkercad, Sensors | Password-authenticated smart lock with motion detection, simulated end-to-end in Tinkercad. |
 
 </div>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</p>
 
 ### 🏅 Achievements
 
@@ -164,48 +179,55 @@ motto       : "Passionate about solving real-world problems with AI + IoT 🚀"
 | 🏅 NPTEL — Human Computer Interaction | Elite + Gold Badge |
 | 🥈 NPTEL — Industry 4.0 & Internet of Things | Elite + Silver Badge |
 | 🧑‍💻 Inter-College Hackathon | Participated at Sethu Institute of Technology, Virudhunagar |
+| 🥈 YuvaSakthi - 2k25 | Won **Second prize** in Non-Technical event conducted by **NPR College of Engineering & Technology** , Dindugal |
 
 </div>
 
----
-
-### 🎓 Education
-
-**B.E. — Computer Science & Engineering (AI & ML)**
-Sethu Institute of Technology | 2023 – 2027 | 82%
-
-**Higher Secondary (Class XII)**
-Katie Wilcox Matriculation Higher Secondary School | 2022 – 2023 | 85%
-
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</p>
 
 ### 🎯 Areas of Interest
 
 `Artificial Intelligence` &nbsp;•&nbsp; `Internet of Things` &nbsp;•&nbsp; `Robotics` &nbsp;•&nbsp; `Product Development` &nbsp;•&nbsp; `Full Stack Development` &nbsp;•&nbsp; `Automation`
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</p>
 
 ### 💬 Quote
 
-<div align="center">
+```bash
+$ motivation
 
-> *"The best way to predict the future is to build it — one sensor, one line of code at a time."*
+"The best way to predict the future
+is to build it —
+one sensor,
+one line of code,
+one idea at a time."
 
-</div>
+- Nithish Kumar
+```
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</p>
 
 ### 📫 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkcoder)
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithishkumar6341@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nithishkumar1246)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nkcoder)
+&nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nithishkumar6341@gmail.com)
+&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/nithishkumar1246)
 
 </div>
 
----
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+</p>
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
