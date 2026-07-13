@@ -23,10 +23,10 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
 
-## 👨‍💻 who am i!!
+## 👨‍💻 who am i !!
 
 ```bash
-> who am i!!
+> who am i !!
 
 Name        : Nithish Kumar M
 Role        : AI • ML • IoT Engineer
