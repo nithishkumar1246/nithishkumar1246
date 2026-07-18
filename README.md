@@ -78,7 +78,7 @@ Actively looking for Software Developer / AI Engineer opportunities.
 <div align="center">
 
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nithishkumar1246&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+  &nbsp;&nbsp;
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nithishkumar1246&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -87,7 +87,7 @@ Actively looking for Software Developer / AI Engineer opportunities.
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=nithishkumar1246&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=nithishkumar1246&theme=tokyonight&hide_border=true"/>
 
 </div>
 
