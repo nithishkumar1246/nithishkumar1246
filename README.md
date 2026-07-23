@@ -229,11 +229,11 @@ one idea at a time."
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/nithishkumar1246)
 
 </div>
-
+<!--
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
 </p>
-
+-->
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
